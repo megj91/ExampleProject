@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 950d22d7a35552b40972e4f66bef9ab5, type: 3}
+  m_Name: Wearable_Set_Green
+  m_EditorClassIdentifier: 
+  WearableSetName: Set_Green
+  WearableShirt:
+    WearableName: Green Shirt
+    WearableID: 126022c3-dd29-42e5-8381-ea2e3b6f0f57
+    ItemType: 0
+    WearablePrice: 3
+    WerableSmallImage: {fileID: 397680930, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    UpSprites:
+    - {fileID: -1274647057, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: 779337220, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: 1743145784, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: 380822299, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    DownSprites:
+    - {fileID: 397680930, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: -391565029, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: -1313895389, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: -704423344, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    LeftSprites:
+    - {fileID: 259864653, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: 1854818150, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: 1162423259, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: 792793484, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    RightSprites:
+    - {fileID: -1727556904, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: -36908752, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: 671921319, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+    - {fileID: -419984903, guid: d65aa37e152e57240acabd83f1cdda84, type: 3}
+  WearablePants:
+    WearableName: Green Pants
+    WearableID: 263aa92e-fcdf-4c02-9792-8718bc6520a7
+    ItemType: 1
+    WearablePrice: 5
+    WerableSmallImage: {fileID: -1551949436, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    UpSprites:
+    - {fileID: 738310187, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: 1171248621, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: 1615695024, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: -279863413, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    DownSprites:
+    - {fileID: -1551949436, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: -2061108397, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: 48357028, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: -1437185036, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    LeftSprites:
+    - {fileID: -481990083, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: 158061362, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: -1649505582, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: 1192874954, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    RightSprites:
+    - {fileID: -1839971442, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: 1706619926, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: -66631881, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
+    - {fileID: -980277096, guid: da6b1b849bf90c643bcb370158eab7c1, type: 3}
